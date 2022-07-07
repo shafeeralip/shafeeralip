@@ -11,8 +11,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/shafeerali p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shafeerali p" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/muhammed shafeerali p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="muhammed shafeerali p" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/muhammedshafeeralip-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shafeerali p" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/14111038/muhammed-shafeerali-p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="muhammed shafeerali p" height="30" width="40" /></a>
 <a href="https://instagram.com/shafeer_pl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shafeer_pl" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/shafeer" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shafeer" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@shafeeralihp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@shafeeralihp" height="30" width="40" /></a>
