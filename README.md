@@ -3,7 +3,7 @@
 
 - 💬 Ask me about **Python,Django,React.js,SQL**
 
-- 🌱 I’m currently learning **Node.js,MachineLearning**
+- 🌱 I’m currently learning **FastApi,MachineLearning**
 
 - 📫 How to reach me **shafeeralihp@gmail.com**
 
