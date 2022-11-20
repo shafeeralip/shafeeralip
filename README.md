@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **shafeeralihp@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1s3XpVLrc5sq8HHXE2SciQRRs3MupqwUj/view?usp=sharing](https://drive.google.com/file/d/1s3XpVLrc5sq8HHXE2SciQRRs3MupqwUj/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1oYhFYVu-PHpeFLCPM8a8ELTipK0qbMaL/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
