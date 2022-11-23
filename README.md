@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [shafeerali.com](shafeerali.com)
 
-- 💬 Ask me about **Python Django FastApi React.js Js SQL Mongodb**
+- 💬 Ask me about **Python Django, FastApi, React.js, Js, SQL, Mongodb**
 
 - 📫 How to reach me **shafeeralihp@gmai.com**
 
