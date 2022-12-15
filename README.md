@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **shafeeralihp@gmai.com**
 
-- 📄 Know about my experiences [Resume](htttp:my resme)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Zvd7t14ngaE8xOXHFn3ETYkzC4Kfs1SS/view?usp=share_link)
 
 
 <h3 align="left">Connect with me:</h3>
