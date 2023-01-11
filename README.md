@@ -147,9 +147,9 @@
         src="https://github-readme-stats.vercel.app/api/top-langs?username=shafeeralip&show_icons=true&locale=en&layout=compact"
         alt="shafeeralip" /></p>
 
-<!-- <p>&nbsp;<img align="center"
+<p>&nbsp;<img align="center"
         src="https://github-readme-stats.vercel.app/api?username=shafeeralip&show_icons=true&locale=en"
         alt="shafeeralip" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shafeeralip&"
-        alt="shafeeralip" /></p> -->
+        alt="shafeeralip" /></p>
