@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammed shafeerali</h1>
 <h3 align="center">A passionate Python developer from India</h3>
 
-- 👨‍💻 All of my projects are available at [shafeerali.tech](shafeerali.tech)
+- 👨‍💻 All of my projects are available at [shafeerali.tech](https://shafeerali.tech/)
 
 - 💬 Ask me about **Python Django, FastApi, React.js, Js, SQL, Mongodb**
 
